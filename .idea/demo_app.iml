@@ -32,11 +32,12 @@
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.1, ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails (v3.1.0, ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tilt (v1.3.3, ruby-1.9.2-p290) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pg (v0.11.0, ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.17.2, ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bcrypt-ruby (v3.0.1, ruby-1.9.2-p290) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rdoc (v3.11, ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v3.1.0, ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v0.14.6, ruby-1.9.2-p290) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rdoc (v3.11, ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v3.1.1, ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v0.9.2.2, ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-cache (v1.0.3, ruby-1.9.2-p290) [gem]" level="application" />
